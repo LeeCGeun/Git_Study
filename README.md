@@ -1,3 +1,3 @@
 A's change
 
-Conflict test_B
+Conflict test_AnB
